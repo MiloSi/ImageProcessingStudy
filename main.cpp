@@ -7,7 +7,12 @@
 #include <opencv2/opencv.hpp>
 
 /*************************************************
-Latest Version 2017 - 04 - 05
+Latest Version 2017 - 04 - 12
+
+04 - 12
+Modify Spelling
+
+04 - 05
 
 Created by Milo Si, (or call me C)
 This program is to study Multimedia (Computer Vision) using OpenCV
